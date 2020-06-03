@@ -147,4 +147,7 @@ public class Calculations extends JPanel {
         }
         return dx;
     }
+System.out.println(x);
+System.out.println(mx);
+System.out.println(dx);
 }
